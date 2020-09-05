@@ -5,7 +5,7 @@ require 'pry'
 def load_library(path)
   # code goes here
   final_hash = {}
-  Yaml.load_file(path)
+  YAML.load_file(path)
   final hash
 end
 
