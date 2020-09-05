@@ -4,6 +4,8 @@ require 'pry'
 
 def load_library(path)
   # code goes here
+  final_hash = {}
+  
   
 end
 
