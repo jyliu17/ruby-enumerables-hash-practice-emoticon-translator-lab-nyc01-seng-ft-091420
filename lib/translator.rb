@@ -21,7 +21,7 @@ def get_japanese_emoticon(path, emoticon)
       return key
     end
   end
-end
+
 
 def get_english_meaning
   # code goes here
