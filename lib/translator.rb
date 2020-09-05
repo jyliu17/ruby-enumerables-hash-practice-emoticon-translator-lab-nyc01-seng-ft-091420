@@ -8,7 +8,7 @@ def load_library(path)
   final_hash = {}
   YAML.load_file(path).each do |key, value|
   end
-  final hash
+  final_hash
 end
 
 def get_japanese_emoticon
